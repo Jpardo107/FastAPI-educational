@@ -1,0 +1,41 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "string",
+        "created_at": "2022-09-27 19:03:34.753034",
+        "update_at": "2022-09-27 22:03:50.818000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "birth_date": "2022-09-27"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+        "content": "My first post in the Twitter API whit steroids",
+        "created_at": "2022-09-27 19:03:34.753034",
+        "update_at": "2022-09-27 22:03:50.818000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "jaime@example.com",
+            "first_name": "Jaime",
+            "last_name": "Pardo",
+            "birth_date": "1990-02-25"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+        "content": "My first post in the Twitter API whit steroids of my husband",
+        "created_at": "2022-09-27 19:03:34.753034",
+        "update_at": "2022-09-27 22:03:50.818000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+            "email": "doris@example.com",
+            "first_name": "Doris",
+            "last_name": "Uribe",
+            "birth_date": "1979-12-06"
+        }
+    }
+]
